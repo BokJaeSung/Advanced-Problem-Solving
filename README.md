@@ -44,9 +44,9 @@ A collection of advanced algorithm implementations in Python, based on the follo
 
 ## 📚 Early Lectures
 
-| Lec | Topic |
-|-----|-------|
-| [`Lec.01`](Lec.01_Introduction/) | Introduction |
-| [`Lec.02`](Lec.02_Numerical_Problems/) | Numerical Problems |
-| [`Lec.03`](Lec.03_Geometric_Problems/) | Geometric Problems |
-| [`Lec.04`](Lec.04_String_Matching/) | String Matching |
+| Lec | Topic | Problems | Key Algorithms |
+|-----|-------|----------|----------------|
+| [`Lec.01`](Lec.01_Introduction/) | Introduction | — | — |
+| [`Lec.02`](Lec.02_Numerical_Problems/) | Numerical Problems | — | — |
+| [`Lec.03`](Lec.03_Geometric_Problems/) | Geometric Problems | — | — |
+| [`Lec.04`](Lec.04_String_Matching/) | String Matching | [Pattern Matching](Lec.04_String_Matching/1_string_pattern_matching.py) · [String Exponentiation](Lec.04_String_Matching/2_string_exponentiation.py) · [Longest Repeated Substring](Lec.04_String_Matching/3_longest_repeated_substring.py) | KMP, Z-algorithm, Suffix Array |
