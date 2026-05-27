@@ -1,5 +1,9 @@
 # Advanced Problem Solving
 
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-18-brightgreen?style=flat)
+![Topics](https://img.shields.io/badge/Topics-Graph%20%7C%20Optimization%20%7C%20Intractable-blueviolet?style=flat)
+
 A collection of advanced algorithm implementations in Python, based on the following references:
 
 - T. Cormen et al., *Introduction to Algorithms*, 3rd Ed. (CLRS)
