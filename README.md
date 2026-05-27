@@ -11,19 +11,42 @@ A collection of advanced algorithm implementations in Python, based on the follo
 - S. Halim & F. Halim, *Competitive Programming*
 - A. Laaksonen, *Competitive Programmer's Handbook*
 
-## Structure
+---
 
-| Folder | Topic |
-|--------|-------|
-| [`Lec.01_Introduction`](Lec.01_Introduction/) | Introduction |
-| [`Lec.02_Numerical_Problems`](Lec.02_Numerical_Problems/) | Numerical Problems |
-| [`Lec.03_Geometric_Problems`](Lec.03_Geometric_Problems/) | Geometric Problems |
-| [`Lec.04_String_Matching`](Lec.04_String_Matching/) | String Matching |
-| [`Lec.05_Graph_Problems_1`](Lec.05_Graph_Problems_1/) | Graph Problems (1) |
-| [`Lec.06_Graph_Problems_2`](Lec.06_Graph_Problems_2/) | Graph Problems (2) |
-| [`Lec.07_Graph_Problems_3`](Lec.07_Graph_Problems_3/) | Graph Problems (3) |
-| [`Lec.09_Optimization_Problems_1`](Lec.09_Optimization_Problems_1/) | Optimization Problems (1) |
-| [`Lec.10_Optimization_Problems_2`](Lec.10_Optimization_Problems_2/) | Optimization Problems (2) |
-| [`Lec.11_Optimization_Problems_3`](Lec.11_Optimization_Problems_3/) | Optimization Problems (3) |
-| [`Lec.12_Intractable_Problems_1`](Lec.12_Intractable_Problems_1/) | Intractable Problems (1) |
-| [`Lec.13_Intractable_Problems_2`](Lec.13_Intractable_Problems_2/) | Intractable Problems (2) |
+## 🔵 Graph Problems
+
+| Lec | Topic | Problems | Key Algorithms |
+|-----|-------|----------|----------------|
+| [`Lec.05`](Lec.05_Graph_Problems_1/) | Graph Problems (1) | — | BFS, DFS, Topological Sort |
+| [`Lec.06`](Lec.06_Graph_Problems_2/) | Graph Problems (2) | Kosaraju · Tarjan · Min Source Cover · 2-SAT | SCC, 2-SAT |
+| [`Lec.07`](Lec.07_Graph_Problems_3/) | Graph Problems (3) | [Edge-Disjoint Paths](Lec.07_Graph_Problems_3/1_edge_disjoint_paths.py) · [Min Cut](Lec.07_Graph_Problems_3/2_minimum_cut.py) · [Bipartite Matching](Lec.07_Graph_Problems_3/3_bipartite_matching.py) | Ford-Fulkerson, Max-Flow Min-Cut |
+
+---
+
+## 🟠 Optimization Problems
+
+| Lec | Topic | Problems | Key Algorithms |
+|-----|-------|----------|----------------|
+| [`Lec.09`](Lec.09_Optimization_Problems_1/) | Optimization Problems (1) | — | Divide & Conquer Opt, Knuth's Opt |
+| [`Lec.10`](Lec.10_Optimization_Problems_2/) | Optimization Problems (2) | [SSSP](Lec.10_Optimization_Problems_2/1_single_source_shortest_paths.py) · [SSSP (Negative)](Lec.10_Optimization_Problems_2/2_sssp_with_negative_edges.py) · [Sliding Puzzle](Lec.10_Optimization_Problems_2/3_sliding_puzzles.py) | Dijkstra, Bellman-Ford, A\* |
+| [`Lec.11`](Lec.11_Optimization_Problems_3/) | Optimization Problems (3) | [Min Vertex Cover](Lec.11_Optimization_Problems_3/1_minimum_vertex_cover.py) · [Min Set Cover](Lec.11_Optimization_Problems_3/2_minimum_set_cover.py) | Brute-Force, Greedy Approximation |
+
+---
+
+## 🔴 Intractable Problems
+
+| Lec | Topic | Problems | Key Algorithms |
+|-----|-------|----------|----------------|
+| [`Lec.12`](Lec.12_Intractable_Problems_1/) | Intractable Problems (1) | [Sudoku Puzzle](Lec.12_Intractable_Problems_1/1_sudoku_puzzle.py) · [Unique Sudoku](Lec.12_Intractable_Problems_1/2_unique_sudoku.py) · [Load Balancing](Lec.12_Intractable_Problems_1/3_load_balancing.py) | Backtracking (MRV), Branch & Bound |
+| [`Lec.13`](Lec.13_Intractable_Problems_2/) | Intractable Problems (2) | [TSP](Lec.13_Intractable_Problems_2/1_traveling_salesperson_problem.py) · [Shortest Superstring](Lec.13_Intractable_Problems_2/2_shortest_superstring.py) · [Euclidean TSP](Lec.13_Intractable_Problems_2/3_euclidean_tsp.py) | Held-Karp DP, MST Heuristic |
+
+---
+
+## 📚 Early Lectures
+
+| Lec | Topic |
+|-----|-------|
+| [`Lec.01`](Lec.01_Introduction/) | Introduction |
+| [`Lec.02`](Lec.02_Numerical_Problems/) | Numerical Problems |
+| [`Lec.03`](Lec.03_Geometric_Problems/) | Geometric Problems |
+| [`Lec.04`](Lec.04_String_Matching/) | String Matching |
