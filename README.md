@@ -17,3 +17,9 @@ A collection of advanced algorithm implementations in Python, based on the follo
 | [`Lec.04_String_Matching`](Lec.04_String_Matching/) | String Matching |
 | [`Lec.05_Graph_Problems_1`](Lec.05_Graph_Problems_1/) | Graph Problems (1) |
 | [`Lec.06_Graph_Problems_2`](Lec.06_Graph_Problems_2/) | Graph Problems (2) |
+| [`Lec.07_Graph_Problems_3`](Lec.07_Graph_Problems_3/) | Graph Problems (3) |
+| [`Lec.09_Optimization_Problems_1`](Lec.09_Optimization_Problems_1/) | Optimization Problems (1) |
+| [`Lec.10_Optimization_Problems_2`](Lec.10_Optimization_Problems_2/) | Optimization Problems (2) |
+| [`Lec.11_Optimization_Problems_3`](Lec.11_Optimization_Problems_3/) | Optimization Problems (3) |
+| [`Lec.12_Intractable_Problems_1`](Lec.12_Intractable_Problems_1/) | Intractable Problems (1) |
+| [`Lec.13_Intractable_Problems_2`](Lec.13_Intractable_Problems_2/) | Intractable Problems (2) |
