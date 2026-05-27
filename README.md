@@ -1,7 +1,7 @@
 # Advanced Problem Solving
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-24-brightgreen?style=flat)
+![Problems](https://img.shields.io/badge/Problems-26-brightgreen?style=flat)
 ![Topics](https://img.shields.io/badge/Topics-String%20%7C%20Graph%20%7C%20Optimization%20%7C%20Intractable-blueviolet?style=flat)
 
 A collection of advanced algorithm implementations in Python, based on the following references:
@@ -35,7 +35,7 @@ A collection of advanced algorithm implementations in Python, based on the follo
 
 | Lec | Topic | Problems | Key Algorithms |
 |-----|-------|----------|----------------|
-| [`Lec.09`](Lec.09_Optimization_Problems_1/) | Optimization Problems (1) | — | Divide & Conquer Opt, Knuth's Opt |
+| [`Lec.09`](Lec.09_Optimization_Problems_1/) | Optimization Problems (1) | [LCS](Lec.09_Optimization_Problems_1/1_longest_common_subsequence.py) · [Edit Distance](Lec.09_Optimization_Problems_1/2_edit_distance.py) | DP (Tabulation), Path Reconstruction |
 | [`Lec.10`](Lec.10_Optimization_Problems_2/) | Optimization Problems (2) | [SSSP](Lec.10_Optimization_Problems_2/1_single_source_shortest_paths.py) · [SSSP (Negative)](Lec.10_Optimization_Problems_2/2_sssp_with_negative_edges.py) · [Sliding Puzzle](Lec.10_Optimization_Problems_2/3_sliding_puzzles.py) | Dijkstra, Bellman-Ford, A\* |
 | [`Lec.11`](Lec.11_Optimization_Problems_3/) | Optimization Problems (3) | [Min Vertex Cover](Lec.11_Optimization_Problems_3/1_minimum_vertex_cover.py) · [Min Set Cover](Lec.11_Optimization_Problems_3/2_minimum_set_cover.py) | Brute-Force, Greedy Approximation |
 

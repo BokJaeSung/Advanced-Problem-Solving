@@ -33,6 +33,26 @@ Lec.12_Intractable_Problems_1/
 3_load_balancing.py
 ```
 
+## README Update Rules
+
+새 강의/문제 파일을 추가할 때마다 README.md를 반드시 함께 업데이트한다.
+
+### 업데이트 항목
+1. **해당 섹션 테이블 행** — Problems 컬럼에 파일 링크 추가, Key Algorithms 컬럼 업데이트
+2. **Problems 뱃지** — `find . -name "*.py" | wc -l` 로 총 파일 수 확인 후 숫자 갱신
+3. **새 섹션이 생기는 경우** — 적절한 이모지와 함께 섹션 추가
+
+### 섹션별 이모지
+| 섹션 | 이모지 |
+|------|--------|
+| String Problems | 🔤 |
+| Graph Problems | 🕸️ |
+| Optimization Problems | ⚡ |
+| Intractable Problems | 🧩 |
+| Early Lectures | 📚 |
+
+---
+
 ## Code Conventions
 
 - 파일 상단: `import sys` / `input = sys.stdin.readline`
