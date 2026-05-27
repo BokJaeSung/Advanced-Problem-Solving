@@ -18,7 +18,7 @@ A collection of advanced algorithm implementations in Python, based on the follo
 | Lec | Topic | Problems | Key Algorithms |
 |-----|-------|----------|----------------|
 | [`Lec.05`](Lec.05_Graph_Problems_1/) | Graph Problems (1) | — | BFS, DFS, Topological Sort |
-| [`Lec.06`](Lec.06_Graph_Problems_2/) | Graph Problems (2) | Kosaraju · Tarjan · Min Source Cover · 2-SAT | SCC, 2-SAT |
+| [`Lec.06`](Lec.06_Graph_Problems_2/) | Graph Problems (2) | [Kosaraju](Lec.06_Graph_Problems_2/1_kosaraju.py) · [Tarjan](Lec.06_Graph_Problems_2/2_tarjan.py) · [Min Source Cover](Lec.06_Graph_Problems_2/3_minimum_source_cover.py) · [2-SAT](Lec.06_Graph_Problems_2/4_two_sat.py) | SCC, 2-SAT |
 | [`Lec.07`](Lec.07_Graph_Problems_3/) | Graph Problems (3) | [Edge-Disjoint Paths](Lec.07_Graph_Problems_3/1_edge_disjoint_paths.py) · [Min Cut](Lec.07_Graph_Problems_3/2_minimum_cut.py) · [Bipartite Matching](Lec.07_Graph_Problems_3/3_bipartite_matching.py) | Ford-Fulkerson, Max-Flow Min-Cut |
 
 ---
